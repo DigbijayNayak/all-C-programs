@@ -1,0 +1,1 @@
+// Calculate only Simple Interest
